@@ -1,0 +1,28 @@
+.photo {
+    width: 150px;
+    height: 200px;
+    background-color: silver;
+    border: 1px solid black;
+    float: left;
+}
+.clear {
+    clear: left;
+}
+.isi {
+    text-align: center;
+}
+.garis-horizontal-1 {
+    border: 2px solid;
+}
+.garis-horizontal-2 {
+    border: 2px solid;
+}
+.garis-horizontal-3 {
+    border: 2px solid;
+}
+.garis-horizontal-4 {
+    border: 2px solid;
+}
+.garis-horizontal-5 {
+    border: 1px solid;
+}
